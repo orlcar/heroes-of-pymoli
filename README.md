@@ -135,7 +135,7 @@ purchasing_analysis_gender_df = purchasing_analysis_gender_df.set_index("Gender"
 purchasing_analysis_gender_df
 ```
 
-![Purchasing Analysis Gender] (Images/purchasing_analysis_gender.png)
+![Purchasing Analysis Gender](Images/purchasing_analysis_gender.png)
 
 ```python
 ### Age Demographics ###
