@@ -846,6 +846,8 @@ profitable_items_df.head()
 </table>
 </div>
 
+
+
 ## Data Analysis
 
 The majority of players are young adults who fall in the age group of 20-24 (44.79%).  A significant number of players also fall in the age group of 15-19 (18.58%) 
