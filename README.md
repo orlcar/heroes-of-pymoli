@@ -135,7 +135,7 @@ purchasing_analysis_gender_df = purchasing_analysis_gender_df.set_index("Gender"
 purchasing_analysis_gender_df
 ```
 
-![Purchasing Analysis Gender]Images/purchasing_analysis_gender.png)
+![Purchasing Analysis Gender] (Images/purchasing_analysis_gender.png)
 
 ```python
 ### Age Demographics ###
@@ -164,7 +164,7 @@ age_demographics_df["Percentage of Players"] = age_demographics_df["Percentage o
 age_demographics_df
 ```
 
-![Age Demographics](images/age_demographics.png)
+![Age Demographics](Images/age_demographics.png)
 
 ```python
 ### Purchasing Analysis (Age) ###
