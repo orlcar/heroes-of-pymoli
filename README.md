@@ -28,7 +28,7 @@ players_count_df = pd.DataFrame({"Total Players": [players_count]})
 players_count_df
 ```
 
-![Players Count](images/players_count.png)
+![Players Count](Images/players_count.png)
 
 ```python
 #### Purchasing Analysis (Total) ###
@@ -59,7 +59,7 @@ purchasing_analysis_total_df["Total Revenue"] = purchasing_analysis_total_df["To
 purchasing_analysis_total_df
 ```
 
-![Purchasing Analysis Total](images/purchasing_analysis_total.png)
+![Purchasing Analysis Total](Images/purchasing_analysis_total.png)
 
 ```python
 ### Gender Demographics ###
@@ -94,7 +94,7 @@ gender_demographics_df = gender_demographics_df.set_index("Gender")
 gender_demographics_df
 ```
 
-![Gender Demographics](images/gender_demographics.png)
+![Gender Demographics](Images/gender_demographics.png)
 
 ```python
 ### Purchasing Analysis (Gender) ###
@@ -135,7 +135,7 @@ purchasing_analysis_gender_df = purchasing_analysis_gender_df.set_index("Gender"
 purchasing_analysis_gender_df
 ```
 
-![Purchasing Analysis Gender](images/purchasing_analysis_gender.png)
+![Purchasing Analysis Gender]Images/purchasing_analysis_gender.png)
 
 ```python
 ### Age Demographics ###
@@ -190,7 +190,7 @@ purchasing_analysis_age_df["Avg Total Purchase per Person"] = purchasing_analysi
 purchasing_analysis_age_df
 ```
 
-![Purchasing Analysis Age](images/purchasing_analysis_age.png)
+![Purchasing Analysis Age](Images/purchasing_analysis_age.png)
 
 ```python
 ### Top Spenders ###
@@ -223,7 +223,7 @@ top_spenders_df["Total Purchase Value"] = top_spenders_df["Total Purchase Value"
 top_spenders_df.head()
 ```
 
-![Top Spenders](images/top_spenders.png)
+![Top Spenders](Images/top_spenders.png)
 
 ```python
 ### Most Popular Items ###
@@ -255,7 +255,7 @@ popular_items_df["Total Purchase Value"] = popular_items_df["Total Purchase Valu
 popular_items_df.head()
 ```
 
-![Popular Items](images/popular_items.png)
+![Popular Items](Images/popular_items.png)
 
 ```python
 ### Most Profitable Items ###
@@ -271,7 +271,7 @@ profitable_items_df["Total Purchase Value"] = profitable_items_df["Total Purchas
 profitable_items_df.head()
 ```
 
-![Profitable Items](images/profitable_items.png)
+![Profitable Items](Images/profitable_items.png)
 
 ## Data Analysis
 
